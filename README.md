@@ -12,7 +12,6 @@ pip install -r requirements.txt
 python -m pytest -q                      # 14 pruebas
 python simulacion_banco.py demo          # un día narrado, usuario por usuario
 python simulacion_banco.py todo          # los 5 puntos + 1.000 réplicas (≈ 1 min); escribe resultados/
-python docs/generar_informe.py           # regenera el informe .docx con las cifras de resultados/
 ```
 
 Opciones: `--seed 42` (por defecto), `--replicas 10` (por defecto, el mínimo del enunciado), `--salida resultados`.
