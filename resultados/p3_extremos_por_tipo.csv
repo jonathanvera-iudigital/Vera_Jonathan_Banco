@@ -1,0 +1,9 @@
+,min,replica_min,max,replica_max
+Retiro Rápido,22,9,43,1
+Retiro Normal,37,9,63,4
+Retiro Lento,19,2,33,3
+Retiro Muy lento,16,2,30,5
+Pago Rápido,2,2,11,6
+Pago Normal,8,3,16,5
+Pago Lento,14,3,25,10
+Pago Muy lento,20,10,30,9
